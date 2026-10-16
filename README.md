@@ -1,2 +1,5 @@
-# calculadora-tec
+#ENTREGABLE 3 - CALCULADORA FINANCIERA Tec
+##Nombre: Valentina Piconeri Figueroa 
+##Fecha: 16 octubre 2026
+
 En este proyecto vamos crear una calculadora financiera para la clase de Desarrollo Web
