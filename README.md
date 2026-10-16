@@ -1,4 +1,4 @@
-# ENTREGABLE 3 - CALCULADORA FINANCIERA Tech
+# ENTREGABLE 3 - CALCULADORA FINANCIERA TechFi
 ## Nombre: Valentina Piconeri Figueroa 
 ## Fecha: 16 octubre 2026
 
