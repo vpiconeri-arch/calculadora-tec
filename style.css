@@ -2,13 +2,13 @@
 /* === ESTILOS PERSONALIZADOS Y MEDIA QUERIES === */
 /* ========================================= */
 :root {
-    --color-primary: #004481; /* Azul corporativo */
-    --color-accent: #ffbb00; /* Amarillo/Naranja de énfasis */
+    --color-primary: #a9ede6; /* Azul corporativo */
+    --color-accent: #c9f9fb; /* Amarillo/Naranja de énfasis */
     --color-dark: #263238;
     --color-success: #28a745; /* Verde claro para "good" */
-    --color-warning: #fd7e14; /* Naranja para "warning" */
+    --color-warning: #ffc4f9; /* Naranja para "warning" */
     --color-danger: #dc3545; /* Rojo para "danger" */
-    --color-bg: #f8f9fa; /* Fondo muy neutro y limpio */
+    --color-bg: #ffc8dc; /* Fondo muy neutro y limpio */
 }
 
 
@@ -121,4 +121,50 @@ body {
     .display-4 {
         font-size: 2rem; /* Texto más pequeño en móvil */
     }
+}
+#main-footer {
+  background: var(--color-primary);
+  color:white;
+  text-align:center;
+  padding: 10px;
+  margin-top:auto;
+}
+
+
+footer a {
+    color: #ffffff; 
+    text-decoration: none; /*  quita el subrayado si no te gusta */
+    /*font-weight: bold; /* Opcional: lo hace un poco más gordito para leerse mejor */
+}
+
+
+#autor{
+  margin: 0.2rem;
+  color:white;
+  text-decoration: none;
+}
+
+
+
+
+.social {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+
+.social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  background: #ffffff;
+  color: var(--color-primary);
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 1.5rem;
+
 }
